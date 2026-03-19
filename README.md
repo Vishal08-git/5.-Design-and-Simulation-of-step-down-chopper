@@ -53,11 +53,13 @@ Current Ripple (Delta I) = 0.1A
 
 ## Simulation
 
-<img width="1885" height="836" alt="image" src="https://github.com/user-attachments/assets/99976f66-3bfb-42d5-b0b2-a831e700cda2" />
+<img width="418" height="271" alt="Screenshot 2026-03-13 104711" src="https://github.com/user-attachments/assets/26d6497a-21e2-41ce-ac23-edbe126a5c00" />
 
 ## Output
 
-<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/4575f1d9-bf45-4e26-b0b2-756481207d6b" />
+<img width="611" height="464" alt="Screenshot 2026-03-13 112844" src="https://github.com/user-attachments/assets/11765b6d-3184-4c89-bd22-5feb3c5f817c" />
+
 
 ## Result
-Thus the experiment is simulated and verified successfully.
+
+Design, simulate and analyse a step down chopper using MATLAB Simulink is done
